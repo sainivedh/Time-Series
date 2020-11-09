@@ -8,4 +8,4 @@ The data ranges from January 1949 to December 1960, or 12 years, with 144 observ
 
 
 ![Alt text](https://github.com/sainivedh/Time-Series/blob/main/Air%20Passengers/Air%20Passengers_truevspred_plot.png)
-<img src="https://github.com/sainivedh/Time-Series/blob/main/Air%20Passengers/Air%20Passengers_truevspred_plot.png"
+
