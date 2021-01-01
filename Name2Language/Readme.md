@@ -1,12 +1,12 @@
-Given a name, model tells us the language of the name.
+> Given a name, model tells us the language of the name.
 
-Example:
-**Pearson - English
-**Putin - Russian
-**Costa - Portuguese
-**Yu - Korean
+Examples: <br />
+Pearson - English <br />
+Putin - Russian <br />
+Costa - Portuguese <br />
+Yu - Korean <br />
 ...
 
-Model is created from scratch with LSTM CElls using custom model functionality of tensorflow
-Achieved accuracy of 70%
+- Model is created from scratch with LSTM Cells using custom model functionality of tensorflow <br />
+- Achieved an accuracy of 70%
 
